@@ -99,6 +99,15 @@ KillScroll se compromete a cumplir con las leyes de protección de datos aplicab
 - CCPA (Ley de Privacidad del Consumidor de California)
 - Leyes locales de protección de datos
 
+## Gestión de cuentas y eliminación de datos
+
+Actualmente, KillScroll utiliza Google Sign-In únicamente como método de autenticación. La aplicación no mantiene un sistema de cuentas propio ni almacena datos personales en servidores externos.
+
+Por el momento, KillScroll no ofrece una función integrada dentro de la aplicación para eliminar la cuenta desde la interfaz. Los usuarios pueden cerrar sesión en cualquier momento o desinstalar la aplicación, lo que elimina todos los datos almacenados localmente en el dispositivo.
+
+En futuras versiones, KillScroll podrá incorporar opciones adicionales para la gestión y eliminación de cuentas con el fin de mejorar el control del usuario sobre su información.
+
+
 Dado que no recopilamos datos personales, KillScroll cumple naturalmente con los estándares más estrictos de privacidad.
 
 ---
