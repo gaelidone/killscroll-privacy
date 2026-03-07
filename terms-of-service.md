@@ -60,7 +60,11 @@ We use **RevenueCat** to help manage subscription entitlements, validate purchas
 
 ### 6.4 Free trials, price changes, and renewal
 
-If a free trial is offered, it will convert to a paid subscription unless canceled before the trial ends. Subscriptions renew automatically until canceled through Google Play. Prices and availability may change as permitted by Google Play and applicable law, and you will be notified where required.
+If a free trial is offered, it will convert to a paid subscription unless canceled before the trial ends.
+
+Subscriptions automatically renew unless canceled through the Google Play Store.
+
+Prices and availability may change as permitted by Google Play and applicable law, and users will be notified where required.
 
 ### 6.5 Cancellation, refunds, and restoring purchases
 
@@ -114,7 +118,7 @@ Termination does not limit any of our rights or remedies and does not relieve yo
 
 ## 14. Governing Law; Venue
 
-These Terms are governed by the laws of the United States and the laws of the state/province where we are located, without regard to conflict-of-law rules. Any dispute arising from these Terms or the Services will be brought in the courts located in that state/province, unless applicable law provides otherwise.
+These Terms shall be governed by and interpreted in accordance with the laws applicable in the jurisdiction where the developer of the App operates, unless otherwise required by applicable consumer protection laws.
 
 If you reside in a jurisdiction that grants you mandatory consumer rights, those rights remain unaffected.
 
