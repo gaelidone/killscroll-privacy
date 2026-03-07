@@ -60,7 +60,11 @@ We use **RevenueCat** to help manage subscription entitlements, validate purchas
 
 ### 6.4 Free trials, price changes, and renewal
 
-If a free trial is offered, it will convert to a paid subscription unless canceled before the trial ends.
+The App may offer a free trial for certain subscription plans. For example, the annual subscription may include a 7-day free trial period.
+
+If a free trial is offered, it will automatically convert to a paid subscription unless canceled before the trial period ends.
+
+Monthly subscriptions may not include a free trial and may be billed immediately upon purchase.
 
 Subscriptions automatically renew unless canceled through the Google Play Store.
 
