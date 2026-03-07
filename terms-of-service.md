@@ -124,5 +124,6 @@ We may update these Terms from time to time. If we make material changes, we wil
 
 ## 16. Contact
 
-Questions about these Terms can be directed to the contact method provided in the App or in the App’s store listing.
+If you have questions about these Terms, you can contact us at:
 
+Email: killscrollcontact@gmail.com
