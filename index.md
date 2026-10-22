@@ -1,232 +1,115 @@
-# Privacy Policy – KillScroll
+# Privacy Policy – PushDuel
 
-**Last updated:** March 7, 2026
+**Last updated:** October 21, 2026
 
 ## Introduction
 
-KillScroll is a productivity application designed to help users manage their time, reduce distractions, and improve focus.
+PushDuel – Push Up Battle ("PushDuel", "the app", "we") is a fitness app that counts your push-ups and squats using your phone's camera and lets you train, compete in duels and climb leagues. This Privacy Policy explains what information the app uses, why, who it is shared with, and what choices you have.
 
-KillScroll is designed with privacy as a core principle. The application operates primarily on-device, meaning most processing happens locally on your device and not on external servers.
+PushDuel is available on iOS and Android. This policy applies to both. PushDuel was previously published on Android under the name KillScroll; this policy replaces the earlier KillScroll policy.
 
-This Privacy Policy explains which permissions KillScroll uses, how they are used, and what information (if any) is collected, stored, or shared.
-
----
-
-# Core Privacy Principle
-
-**KillScroll does not collect, store on external servers, sell, or share personal user data.**
-
-All configuration and behavioral logic operate locally on the user’s device.
+PushDuel is **not directed to children under 13**, and we do not knowingly collect personal information from them.
 
 ---
 
-# Permissions Requested and Their Use
+## Camera: processed on your device
 
-KillScroll requires certain Android permissions in order to function properly.
+PushDuel uses the camera to detect your body movements and count repetitions in real time.
 
-## 1. Camera Permission
-
-### Purpose
-
-The camera is used exclusively for real-time motion detection during physical exercises (for example: push-ups, squats, or similar movements).
-
-This mechanism allows users to unlock blocked apps by completing short physical challenges designed to encourage healthier habits.
-
-### What KillScroll DOES NOT do
-
-- KillScroll does NOT record photos or videos
-- KillScroll does NOT store camera footage
-- KillScroll does NOT transmit camera data to external servers
-- KillScroll does NOT share visual data with third parties
-
-All video processing occurs **locally and temporarily on the device**.
+- Video is analysed **on your device**. PushDuel does **not** record, store or upload camera video or photos for training.
+- Only the result (for example, the number of repetitions and the duration of a session) is kept.
 
 ---
 
-## 2. Accessibility Service Permission
+## Information we collect
 
-### Purpose
+### Information you provide
+- **Account information.** You can sign in with Apple, Google, or email and password. We receive a unique account ID and, depending on the method, your email address and name. If you use Sign in with Apple's "Hide My Email", we receive only the private relay address.
+- **Profile information.** Username, optional bio, age, gender, number of training days per week, and a profile picture or avatar. If you choose a profile picture from your photo library, the app accesses only the picture you select.
+- **Onboarding answers.** Training goals and preferences you choose during setup (for example current push-up level, goals and motivations).
 
-The Accessibility Service is used only to detect which application is currently active on the device.
+### Information created by using the app
+- **Training and competition data.** Sessions, repetitions, duels, wins, trophies, rank, league position, streaks, coins, quests and rewards.
+- **Subscription status.** Whether you have an active subscription (see "Purchases and subscriptions").
+- **Device and usage information.** App version, device model, operating system version, language, and how you use the app (screens, features and events), collected through analytics.
+- **Diagnostics.** Crash reports and performance data.
+- **Notification token.** If you allow notifications, a token that lets us send you reminders.
 
-This allows KillScroll to apply the blocking rules that the user has configured (for example blocking distracting apps during certain periods).
-
-This permission is **essential for the core functionality of the application**.
-
-### What KillScroll DOES NOT do
-
-KillScroll does NOT:
-
-- Read the content of other apps
-- Capture text, passwords, or personal messages
-- Monitor typing activity
-- Extract personal information from other applications
-
-KillScroll only checks the **name of the currently active application** to determine whether a blocking rule should be applied.
+### Information we do not collect
+We do not collect your precise location, contacts or health records. PushDuel does not show third-party ads, does not ask for permission to track you across other companies' apps or websites, and does not use the advertising identifier for tracking.
 
 ---
 
-## 3. Usage Access Permission (Usage Statistics)
+## How we use information
 
-### Purpose
-
-Usage statistics allow KillScroll to reliably identify which application is currently being used.
-
-This improves the reliability of the blocking system.
-
-### What KillScroll DOES NOT do
-
-- KillScroll does NOT transmit usage statistics externally
-- KillScroll does NOT create behavioral profiles
-- All usage data remains local to the device
+- To provide the app: sign-in, saving your progress, duels, leagues and leaderboards.
+- To process and verify subscriptions.
+- To send notifications you allow, such as training reminders.
+- To understand how the app is used, fix problems and improve features and onboarding, including running experiments on different versions of the app.
+- To keep the app secure and prevent abuse.
 
 ---
 
-# Data Storage
+## What other players can see
 
-All KillScroll configuration data is stored **locally on the user’s device**.
-
-Examples include:
-
-- blocked apps
-- schedules
-- user preferences
-- app rules
-
-KillScroll does **not use cloud databases or remote servers** to store personal user data.
+Your **username, avatar, rank, trophies and league results** are visible to other players in leaderboards and leagues. Your email address, age, gender and camera data are not shown to other players.
 
 ---
 
-# Purchases and Subscriptions
+## Service providers
 
-KillScroll may offer optional premium features through in-app subscriptions.
+We share information only with providers that help us run the app, under their own terms and privacy policies:
 
-Subscriptions are processed securely through the **Google Play Billing system**.
+- **Google Firebase** (Authentication, Cloud Firestore, Analytics, Crashlytics, Remote Config, Cloud Messaging, App Check) – sign-in, storing your account and progress, analytics, crash reporting, configuration, notifications and abuse prevention. https://policies.google.com/privacy
+- **Google Sign-In** – if you choose to sign in with Google.
+- **Sign in with Apple** – if you choose to sign in with Apple.
+- **RevenueCat** – manages subscriptions and purchase status. It receives your account ID and purchase information from the app stores. https://www.revenuecat.com/privacy
+- **Apple App Store and Google Play** – process payments. We never see your payment card details.
 
-KillScroll does **not collect, process, or store payment information**.
-
-All billing information, payment methods, and transaction processing are handled directly by Google Play in accordance with their privacy policies.
-
-KillScroll only receives confirmation about whether a user has an active subscription in order to unlock premium features.
-
----
-
-# Third-Party Services
-
-KillScroll may rely on limited third-party services that support app functionality.
-
-## RevenueCat
-
-KillScroll uses **RevenueCat** to manage in-app subscriptions.
-
-RevenueCat processes anonymous purchase information provided by the app stores in order to validate subscriptions.
-
-KillScroll does not send personal user data to RevenueCat.
-
-More information about RevenueCat's privacy practices can be found here:
-
-https://www.revenuecat.com/privacy
+We do **not sell** your personal information and we do not share it for third-party advertising.
 
 ---
 
-# Google Sign-In
+## Purchases and subscriptions
 
-KillScroll may allow users to authenticate using **Google Sign-In**.
-
-Authentication is handled directly by Google.
-
-During this process, KillScroll may receive limited account information such as:
-
-- a unique Google user ID
-- the user's email address
-
-This information is used **only for authentication purposes** and is not stored on external servers by KillScroll.
+PushDuel offers optional subscriptions. Payments are processed by Apple (iOS) or Google Play (Android). We do not collect or store payment card information. We receive confirmation of whether your subscription is active so that we can unlock premium features. Deleting your account or the app does **not** cancel your subscription; manage or cancel it in your Apple ID or Google Play settings.
 
 ---
 
-# Data Sharing
+## Data retention and deletion
 
-**KillScroll does not sell, trade, or transfer user data to third parties.**
+We keep your account and progress data while your account is active. You can ask us to delete your account and associated data at any time by emailing **killscrollcontact@gmail.com** from the address linked to your account (or contacting us through the app if an in-app option is available). We will confirm once the request has been handled. Some information may remain for a limited time in backups or where we must keep it by law. Analytics data held by Google may take additional time to be removed.
 
-Because KillScroll does not collect personal data, there is no user data available to share.
-
----
-
-# Security
-
-Although KillScroll does not collect personal data, security remains a priority.
-
-The application follows Android security best practices including:
-
-- minimal permission usage
-- local data storage
-- secure system APIs
-
-Permissions are requested only when required for core features.
+You can also revoke the camera, notification and photo permissions at any time in your device settings; some features may then stop working.
 
 ---
 
-# Children's Privacy
+## International transfers
 
-KillScroll is **not directed toward children under the age of 13**.
-
-The application does not knowingly collect personal information from children.
-
-If a parent or guardian believes that a child has provided personal information, please contact us so the issue can be addressed.
+Our providers may process information in countries other than yours, including the United States. Where required, they rely on appropriate safeguards such as standard contractual clauses.
 
 ---
 
-# Changes to This Privacy Policy
+## Security
 
-If KillScroll introduces features that affect this Privacy Policy (for example cloud synchronization or additional services), this policy will be updated accordingly.
-
-Users will be informed of significant changes through appropriate channels.
+We use industry-standard measures, including encrypted connections and access rules on our databases. No system is completely secure, so we cannot guarantee absolute security.
 
 ---
 
-# User Rights
+## Your rights
 
-Users have the right to:
-
-- uninstall KillScroll at any time
-- revoke permissions through Android system settings
-- request clarification regarding this Privacy Policy
-
-Uninstalling the application removes all locally stored data.
+Depending on where you live (for example under the GDPR in the European Union and the United Kingdom, or the CCPA in California), you may have the right to access, correct, delete or export your information, to object to or restrict certain processing, and to withdraw consent. To exercise these rights, contact us at **killscrollcontact@gmail.com**. You also have the right to complain to your local data protection authority.
 
 ---
 
-# Contact
+## Changes to this policy
 
-If you have questions, concerns, or suggestions regarding this Privacy Policy, you can contact us at:
-
-**Email:** gaeldev07@gmail.com
-
-We will respond within a reasonable time frame.
+We may update this policy from time to time. We will change the "Last updated" date above and, for significant changes, inform you in the app or through the store listing.
 
 ---
 
-# Legal Compliance
+## Contact
 
-KillScroll aims to comply with applicable data protection laws including:
-
-- General Data Protection Regulation (GDPR)
-- California Consumer Privacy Act (CCPA)
-- Other applicable regional data protection laws
-
----
-
-# Account Management and Data Deletion
-
-KillScroll currently uses Google Sign-In only as an authentication method.
-
-The application does not maintain a proprietary account system or store personal user data on external servers.
-
-Users may sign out at any time or uninstall the application, which removes all locally stored information.
-
-Future versions of KillScroll may introduce additional tools for account management and data deletion to provide users with greater control over their information.
-
----
-
-**KillScroll**  
-Your privacy. Your control. Your productivity.
+Gael Idone (developer of PushDuel)  
+Madrid 742, Marcos Paz, Buenos Aires, B1727MSB, Argentina  
+**Email:** killscrollcontact@gmail.com
