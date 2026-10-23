@@ -78,7 +78,7 @@ PushDuel offers optional subscriptions. Payments are processed by Apple (iOS) or
 
 ## Data retention and deletion
 
-We keep your account and progress data while your account is active. You can ask us to delete your account and associated data at any time by emailing **killscrollcontact@gmail.com** from the address linked to your account (or contacting us through the app if an in-app option is available). We will confirm once the request has been handled. Some information may remain for a limited time in backups or where we must keep it by law. Analytics data held by Google may take additional time to be removed.
+We keep your account and progress data while your account is active. You can delete your account and associated personal data at any time inside the app: open **Profile > Settings > Delete Account** and confirm. This submits a deletion request that we process within 7 days; you can check its status on the same screen, where we also confirm when it has been completed. No email or support contact is needed. If you cannot access the app, you can instead email **killscrollcontact@gmail.com** from the address linked to your account. Deleting your account does not cancel an active subscription: manage or cancel it in your App Store or Google Play settings. Some information may remain for a limited time in backups or where we must keep it by law. Analytics data held by Google may take additional time to be removed.
 
 You can also revoke the camera, notification and photo permissions at any time in your device settings; some features may then stop working.
 
